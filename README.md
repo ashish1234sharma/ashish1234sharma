@@ -1,3 +1,4 @@
+<p align="centre"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1234sharma&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1234sharma" /> </p>" alt="ashish1234sharma" /> </p>
 <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
 <h3 align="center">An efficient full-stack web developer with skills in HTML, CSS, JavaScript,, React , Redux, Express, npm.</h3>
 
