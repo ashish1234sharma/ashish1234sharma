@@ -1,6 +1,6 @@
 <p align="center" <img src="https://camo.githubusercontent.com/337c4e99eb112ec7e52d91f816b239a9381a5685ecad2e6b142a69e73e463d7e/68747470733a2f2f692e6962622e636f2f543142327066352f4d65726e2d6c6f676f2d7265706f2e706e67" /></p>
 <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
-<h3 align="center">An efficient full-stack web developer with skills in HTML, CSS, JavaScript,, React , Redux, Express, npm.</h3>
+<h3 align="center">An efficient full-stack web developer with skills in HTML, CSS, JavaScript, React , Redux, Express, npm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1234sharma&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1234sharma" /> </p>
 
